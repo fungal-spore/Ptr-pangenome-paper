@@ -1,0 +1,9 @@
+#MEGAHIT
+Shovill/MEGAHIT – default settings with --trim on
+
+#SOAP
+Trimmomatic for SOAP – LEADING:3 TRAILING:3 MINLEN:3
+SOAPdenovo2 – config file with arguments avg_ins=400; asm_flags=3; rd_len_cutoff=150; rank=1; pair_num_cutoff=3; map_len=24
+
+#CLC
+CLC – default settings only
