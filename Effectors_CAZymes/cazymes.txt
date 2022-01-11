@@ -1,0 +1,1 @@
+Parsing of dbCAN output was done manually in excel by co-author K. Low.
