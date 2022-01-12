@@ -1,4 +1,4 @@
-# The pangenome of a global collection of the tan spot pathogen, Pyrenophora tritici-repentis, reveals a highly plastic genome and the association of virulence factors with mobile elements
+# The pangenome of a global collection of the tan spot pathogen, *Pyrenophora tritici-repentis*, reveals a highly plastic genome and the association of virulence factors with mobile elements
 
 Ryan Gourlie,ᵃᵇ Megan McDonald,ᶜ Mohamed Hafez,ᵃ Rodrigo Ortega-Polo,ᵃ Kristin Low,ᵃ Wade Abbott,ᵃ Stephen Strelkov,ᵈ and Reem Aboukhaddourᵃ
 
