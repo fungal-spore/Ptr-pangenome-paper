@@ -13,25 +13,6 @@ data <- data[7:9,]
 type <- data$type
 perc <- data$perc
 
-#default
-palette <- c('dark red', '#31A9B8', '#2D4262')
-ggplot(data, aes(x=factor(type, level=type), y=perc, fill=type)) + 
-  geom_bar(stat = "identity" )+
-  scale_fill_manual(values=palette,  breaks=c("core","accessory","singleton"))+
-  scale_x_discrete(limits=c("singleton","accessory","core" ))+
-  scale_y_continuous(limits=c(0,1))+
-  theme_bw()+
-  theme(axis.text.y = element_blank(), 
-        legend.title = element_blank(),
-        legend.position = c(0.9,0.35),
-        legend.background=element_rect(fill = alpha("white", 0)),
-        legend.text = element_text(size =14),
-        text = element_text(size = 14))+
-  xlab("")+
-  ylab("Proportion in the category")+
-  ggtitle("Pangenome")+
-  coord_flip()
-
 #pangenome set
 ggplot(data, aes(x=factor(type, level=type), y=perc, fill=type)) + 
   geom_bar(stat = "identity" )+
