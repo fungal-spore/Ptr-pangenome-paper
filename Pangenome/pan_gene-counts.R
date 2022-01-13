@@ -79,14 +79,6 @@ write.csv(graph.data, "Z:/User/genome/Ptr/pangenome/graph_data/gene-numbers_grap
 library(ggplot2)
 library(scales)
 
-#graph total genes per added genome
-ggplot(output_data, aes(x=num_genomes, y=total.genes, font=2)) +
-  geom_point(shape=1)+      # Use hollow circles
-  geom_smooth()+            # Add a loess smoothed fit curve with confidence region
-  theme_gray()+
-  xlab("Number of genomes")+ylab("Pangenome size (genes)")+
-  scale_y_continuous(label=comma)
-
 # allgenes boxplot graph
 ggplot(output_data, aes(x=num_genomes, y=total.genes, font=2, group=num_genomes)) +
   geom_boxplot()+      
@@ -105,20 +97,3 @@ ggplot(output_data, aes(x=num_genomes, y=total_core, font=2, group=num_genomes))
   xlab("Number of genomes")+ylab("Core genome size (genes)")+
   scale_y_continuous(label=comma)
 
-#accgenes boxplot graph
-ggplot(output_data, aes(x=num_genomes, y=total_acc, font=2, group=num_genomes)) +
-  geom_boxplot()+      
-  #geom_smooth(inherit.aes = F, aes(x=num_genomes, y=total.genes), se=F)+
-  geom_line()+
-  theme_gray()+
-  xlab("Number of genomes")+ylab("Accessory genome size (genes)")+
-  scale_y_continuous(label=comma)
-
-#singleton boxplot graph
-ggplot(output_data, aes(x=num_genomes, y=singletons, font=2, group=num_genomes)) +
-  geom_boxplot()+      
-  #geom_smooth(inherit.aes = F, aes(x=num_genomes, y=total.genes), se=F)+
-  geom_line()+
-  theme_gray()+
-  xlab("Number of genomes")+ylab("Singleton count (genes)")+
-  scale_y_continuous(label=comma)
