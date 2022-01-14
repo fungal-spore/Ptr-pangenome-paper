@@ -1,5 +1,5 @@
 #remove headers
-grep grep "^[^>;]" $1 > nohead.nt
+grep "^[^>;]" $1 > nohead.nt
 #count nucleotides
 grep -o 'A' nohead.nt | wc -l > a.count
 grep -o 'C' nohead.nt| wc -l > c.count
