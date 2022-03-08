@@ -1,11 +1,9 @@
-# The pangenome of a global collection of the tan spot pathogen, *Pyrenophora tritici-repentis*, reveals a highly plastic genome and the association of virulence factors with mobile elements
+# Dissecting the *Pyrenophora tritici-repentis* (tan spot of wheat) pangenome
+Ryan Gourlieᵃ, Megan McDonaldᵇ, Mohamed Hafezᵃ, Rodrigo Ortega-Poloᵃ, Kristin E. Lowᵃ, D. Wade Abbottᵃ, Stephen E. Strelkovᶜ, Fouad Daayfᵈ and Reem Aboukhaddourᵃ*
 
-Ryan Gourlie,ᵃᵇ Megan McDonald,ᶜ Mohamed Hafez,ᵃ Rodrigo Ortega-Polo,ᵃ Kristin Low,ᵃ Wade Abbott,ᵃ Stephen Strelkov,ᵈ and Reem Aboukhaddourᵃ
+ᵃAgriculture and Agri-food Canada, Lethbridge, Alberta, Canada; bUniversity of Birmingham, School of Biosciences, Edgbaston, Birmingham, United Kingdom; ᶜUniversity of Alberta, Faculty of Agricultural, Life, and Environmental Sciences, Edmonton, Alberta, Canada; ᵈUniversity of Manitoba, Faculty of Agricultural and Food Sciences, Winnipeg, Manitoba, Canada
 
-ᵃAgriculture and Agri-food Canada, Cereal Pathology, Lethbridge, Alberta, Canada;
-ᵇUniversity of Lethbridge, Department of Biosciences, Lethbridge, Alberta, Canada;
-ᶜUniversity of Birmingham, School of Biosciences, Edgbaston, Birmingham, United Kingdom;
-ᵈUniversity of Alberta, Faculty of Agricultural, Life, and Environmental Sciences, Edmonton, Alberta, Canada
+
 
 Cite as:
 
