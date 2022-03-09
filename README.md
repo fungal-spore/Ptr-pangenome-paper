@@ -3,11 +3,7 @@ Ryan Gourlieᵃ, Megan McDonaldᵇ, Mohamed Hafezᵃ, Rodrigo Ortega-Poloᵃ, Kr
 
 ᵃAgriculture and Agri-food Canada, Lethbridge, Alberta, Canada; bUniversity of Birmingham, School of Biosciences, Edgbaston, Birmingham, United Kingdom; ᶜUniversity of Alberta, Faculty of Agricultural, Life, and Environmental Sciences, Edmonton, Alberta, Canada; ᵈUniversity of Manitoba, Faculty of Agricultural and Food Sciences, Winnipeg, Manitoba, Canada
 
-
-
-Cite as:
-
-Link:
+Link: https://www.biorxiv.org/content/10.1101/2022.03.07.483352v1
 
 ABSTRACT
 
