@@ -1,7 +1,7 @@
 # The pangenome of the wheat pathogen Pyrenophora tritici-repentis reveals novel transposons associated with necrotrophic effectors ToxA and ToxB
 [Ryan Gourlieᵃ](https://scholar.google.ca/citations?user=gBrcH-QAAAAJ&hl=en), [Megan McDonaldᵇ](https://scholar.google.ca/citations?user=eS8xGQcAAAAJ&hl=en&oi=ao), [Mohamed Hafezᵃ](https://scholar.google.ca/citations?user=Enk-QRYAAAAJ&hl=en), [Rodrigo Ortega-Poloᵃ](https://scholar.google.ca/citations?user=0-rvGDAAAAAJ&hl=en&oi=ao), [Kristin E. Lowᵃ](https://scholar.google.ca/citations?user=_Y1f0VQAAAAJ&hl=en&oi=ao), [D. Wade Abbottᵃ](https://scholar.google.ca/citations?user=ZuZ0rZoAAAAJ&hl=en&oi=ao), [Stephen E. Strelkovᶜ](https://scholar.google.ca/citations?user=IGJzXb8AAAAJ&hl=en&oi=ao), [Fouad Daayfᵈ](https://scholar.google.ca/citations?user=O2KHEPQAAAAJ&hl=en&oi=ao) and [Reem Aboukhaddourᵃ*](https://scholar.google.ca/citations?user=JDMguYUAAAAJ&hl=en&oi=ao)
 
-ᵃAgriculture and Agri-food Canada, Lethbridge, Alberta, Canada; bUniversity of Birmingham, School of Biosciences, Edgbaston, Birmingham, United Kingdom; ᶜUniversity of Alberta, Faculty of Agricultural, Life, and Environmental Sciences, Edmonton, Alberta, Canada; ᵈUniversity of Manitoba, Faculty of Agricultural and Food Sciences, Winnipeg, Manitoba, Canada
+ᵃAgriculture and Agri-food Canada, Lethbridge, Alberta, Canada; ᵇUniversity of Birmingham, School of Biosciences, Edgbaston, Birmingham, United Kingdom; ᶜUniversity of Alberta, Faculty of Agricultural, Life, and Environmental Sciences, Edmonton, Alberta, Canada; ᵈUniversity of Manitoba, Faculty of Agricultural and Food Sciences, Winnipeg, Manitoba, Canada
 
 Preprint Link: https://www.biorxiv.org/content/10.1101/2022.03.07.483352v1
 
