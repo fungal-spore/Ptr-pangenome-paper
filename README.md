@@ -1,5 +1,5 @@
 # The pangenome of the wheat pathogen Pyrenophora tritici-repentis reveals novel transposons associated with necrotrophic effectors ToxA and ToxB
-Ryan Gourlieᵃ, Megan McDonaldᵇ, Mohamed Hafezᵃ, Rodrigo Ortega-Poloᵃ, Kristin E. Lowᵃ, D. Wade Abbottᵃ, Stephen E. Strelkovᶜ, Fouad Daayfᵈ and Reem Aboukhaddourᵃ*
+[Ryan Gourlieᵃ](https://scholar.google.ca/citations?user=gBrcH-QAAAAJ&hl=en), Megan McDonaldᵇ, Mohamed Hafezᵃ, Rodrigo Ortega-Poloᵃ, Kristin E. Lowᵃ, D. Wade Abbottᵃ, Stephen E. Strelkovᶜ, Fouad Daayfᵈ and Reem Aboukhaddourᵃ*
 
 ᵃAgriculture and Agri-food Canada, Lethbridge, Alberta, Canada; bUniversity of Birmingham, School of Biosciences, Edgbaston, Birmingham, United Kingdom; ᶜUniversity of Alberta, Faculty of Agricultural, Life, and Environmental Sciences, Edmonton, Alberta, Canada; ᵈUniversity of Manitoba, Faculty of Agricultural and Food Sciences, Winnipeg, Manitoba, Canada
 
