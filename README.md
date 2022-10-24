@@ -4,6 +4,7 @@
 ᵃAgriculture and Agri-food Canada, Lethbridge, Alberta, Canada; ᵇUniversity of Birmingham, School of Biosciences, Edgbaston, Birmingham, United Kingdom; ᶜUniversity of Alberta, Faculty of Agricultural, Life, and Environmental Sciences, Edmonton, Alberta, Canada; ᵈUniversity of Manitoba, Faculty of Agricultural and Food Sciences, Winnipeg, Manitoba, Canada
 
 https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01433-w
+https://doi.org/10.1186/s12915-022-01433-w
 
 Background:
 In fungal plant pathogens, genome rearrangements followed by selection pressure for adaptive traits
