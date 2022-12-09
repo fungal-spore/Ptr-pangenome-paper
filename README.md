@@ -37,5 +37,5 @@ These findings together reflect on the highly plastic nature of the Ptr genome w
 drive its worldwide adaptation and has illuminated the involvement of giant transposons in facilitating
 the evolution of virulence in Ptr
 
-Cite As
+Cite As:
 Gourlie, R., McDonald, M., Hafez, M. et al. The pangenome of the wheat pathogen Pyrenophora tritici-repentis reveals novel transposons associated with necrotrophic effectors ToxA and ToxB. BMC Biol 20, 239 (2022). https://doi.org/10.1186/s12915-022-01433-w
