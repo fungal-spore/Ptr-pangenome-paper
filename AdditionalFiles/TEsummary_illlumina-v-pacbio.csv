@@ -1,0 +1,63 @@
+Isolate,ORDER,CLASS,CODE,Full,Count,bpMasked,perc_masked
+D308_long,Class I Retrotransposons,LINE,unknown,CLASS I - LINE - Unknown,616,521344,1.31
+D308_long,Class I Retrotransposons,LTR,Copia,CLASS I - LTR - Copia,2228,2230710,5.62
+D308_long,Class I Retrotransposons,LTR,Gypsy,CLASS I - LTR - Gypsy,1049,1174202,2.96
+D308_long,Class I Retrotransposons,LTR,unknown,CLASS I - LTR - Unknown,1201,960259,2.42
+D308_long,Class II DNA Transposons Subclass 1,DNA,DTA,CLASS II SI - TIR - hAT,750,739340,1.86
+D308_long,Class II DNA Transposons Subclass 1,DNA,DTC,CLASS II SI - TIR - CACTA,169,81400,0.21
+D308_long,Class II DNA Transposons Subclass 1,DNA,DTH,CLASS II SI - TIR - PIF-Harbinger,4,12248,0.03
+D308_long,Class II DNA Transposons Subclass 1,DNA,DTM,CLASS II SI - TIR - Mutator,547,428119,1.08
+D308_long,Class II DNA Transposons Subclass 1,MITE,DTA,CLASS II SI - TIR - hAT,25,3840,0.01
+D308_long,Class II DNA Transposons Subclass 1,MITE,DTC,CLASS II SI - TIR - CACTA,5,783,0.00
+D308_long,Class II DNA Transposons Subclass 1,MITE,DTM,CLASS II SI - TIR - Mutator,278,25403,0.06
+D308_long,Class II DNA Transposons Subclass 2,TIR,hAT,CLASS II SI - TIR - hAT,289,196829,0.50
+D308_long,Class II DNA Transposons Subclass 2,DNA,Helitron,CLASS II SII - Helitron,205,144777,0.36
+D308_long,Class II DNA Transposons Subclass 2,TIR,Tc1_Mariner,CLASS II SI - TIR - Tc1-Mariner,44,35915,0.09
+D308_long,Unknown,Unknown,Unknown,Unknown,2221,819552,2.07
+D308_short,Class I Retrotransposons,LINE,unknown,CLASS I - LINE - Unknown,47,6428,0.02
+D308_short,Class I Retrotransposons,LTR,Copia,CLASS I - LTR - Copia,625,163848,0.48
+D308_short,Class I Retrotransposons,LTR,unknown,CLASS I - LTR - Unknown,751,219949,0.64
+D308_short,Class II DNA Transposons Subclass 1,DNA,DTA,CLASS II SI - TIR - hAT,138,21799,0.06
+D308_short,Class II DNA Transposons Subclass 1,DNA,DTC,CLASS II SI - TIR - CACTA,719,169929,0.49
+D308_short,Class II DNA Transposons Subclass 1,DNA,DTH,CLASS II SI - TIR - PIF-Harbinger,108,33097,0.10
+D308_short,Class II DNA Transposons Subclass 1,DNA,DTM,CLASS II SI - TIR - Mutator,104,102645,0.30
+D308_short,Class II DNA Transposons Subclass 1,DNA,DTT,CLASS II SI - TIR - Tc1-Mariner,1,4506,0.01
+D308_short,Class II DNA Transposons Subclass 1,MITE,DTA,CLASS II SI - TIR - hAT,10,1679,0.00
+D308_short,Class II DNA Transposons Subclass 1,MITE,DTC,CLASS II SI - TIR - CACTA,4,639,0.00
+D308_short,Class II DNA Transposons Subclass 1,MITE,DTH,CLASS II SI - TIR - PIF-Harbinger,1,359,0.00
+D308_short,Class II DNA Transposons Subclass 1,MITE,DTM,CLASS II SI - TIR - Mutator,259,22183,0.06
+D308_short,Class II DNA Transposons Subclass 2,DNA,Helitron,CLASS II SII - Helitron,1116,232001,0.68
+D308_short,Class II DNA Transposons Subclass 2,TIR,Tc1_Mariner,CLASS II SI - TIR - Tc1-Mariner,95,37005,0.11
+D308_short,Unknown,Unknown,Unknown,Unknown,9058,1318516,3.84
+I73-1_long,Class I Retrotransposons,LINE,unknown,CLASS I - LINE - Unknown,310,310499,0.78
+I73-1_long,Class I Retrotransposons,LTR,Copia,CLASS I - LTR - Copia,2402,2122782,5.32
+I73-1_long,Class I Retrotransposons,LTR,Gypsy,CLASS I - LTR - Gypsy,1502,1465930,3.67
+I73-1_long,Class I Retrotransposons,LTR,unknown,CLASS I - LTR - Unknown,792,925763,2.32
+I73-1_long,Class II DNA Transposons Subclass 1,DNA,DTA,CLASS II SI - TIR - hAT,514,559383,1.40
+I73-1_long,Class II DNA Transposons Subclass 1,DNA,DTC,CLASS II SI - TIR - CACTA,325,144711,0.36
+I73-1_long,Class II DNA Transposons Subclass 1,DNA,DTH,CLASS II SI - TIR - PIF-Harbinger,52,30802,0.08
+I73-1_long,Class II DNA Transposons Subclass 1,DNA,DTM,CLASS II SI - TIR - Mutator,319,417560,1.05
+I73-1_long,Class II DNA Transposons Subclass 1,DNA,DTT,CLASS II SI - TIR - Tc1-Mariner,1,4506,0.01
+I73-1_long,Class II DNA Transposons Subclass 1,MITE,DTA,CLASS II SI - TIR - hAT,82,15315,0.04
+I73-1_long,Class II DNA Transposons Subclass 1,MITE,DTC,CLASS II SI - TIR - CACTA,4,821,0.00
+I73-1_long,Class II DNA Transposons Subclass 1,MITE,DTM,CLASS II SI - TIR - Mutator,435,62928,0.16
+I73-1_long,Class II DNA Transposons Subclass 2,DNA,Helitron,CLASS II SII - Helitron,198,138722,0.35
+I73-1_long,Class II DNA Transposons Subclass 2,TIR,hAT,CLASS II SI - TIR - hAT,491,189412,0.47
+I73-1_long,Class II DNA Transposons Subclass 2,TIR,Tc1_Mariner,CLASS II SI - TIR - Tc1-Mariner,123,63550,0.16
+I73-1_long,Unknown,Unknown,Unknown,Unknown,2595,851395,2.13
+I73-1_short,Class I Retrotransposons,LINE,unknown,CLASS I - LINE - Unknown,69,11101,0.03
+I73-1_short,Class I Retrotransposons,LTR,Copia,CLASS I - LTR - Copia,653,148326,0.43
+I73-1_short,Class I Retrotransposons,LTR,unknown,CLASS I - LTR - Unknown,796,238100,0.69
+I73-1_short,Class II DNA Transposons Subclass 1,DNA,DTA,CLASS II SI - TIR - hAT,142,24159,0.07
+I73-1_short,Class II DNA Transposons Subclass 1,DNA,DTC,CLASS II SI - TIR - CACTA,423,164390,0.47
+I73-1_short,Class II DNA Transposons Subclass 1,DNA,DTH,CLASS II SI - TIR - PIF-Harbinger,1,2313,0.01
+I73-1_short,Class II DNA Transposons Subclass 1,DNA,DTM,CLASS II SI - TIR - Mutator,46,88422,0.26
+I73-1_short,Class II DNA Transposons Subclass 1,DNA,DTT,CLASS II SI - TIR - Tc1-Mariner,1,4506,0.01
+I73-1_short,Class II DNA Transposons Subclass 1,MITE,DTA,CLASS II SI - TIR - hAT,112,13103,0.04
+I73-1_short,Class II DNA Transposons Subclass 1,MITE,DTC,CLASS II SI - TIR - CACTA,6,1187,0.00
+I73-1_short,Class II DNA Transposons Subclass 1,MITE,DTH,CLASS II SI - TIR - PIF-Harbinger,1,359,0.00
+I73-1_short,Class II DNA Transposons Subclass 1,MITE,DTM,CLASS II SI - TIR - Mutator,231,20329,0.06
+I73-1_short,Class II DNA Transposons Subclass 2,DNA,Helitron,CLASS II SII - Helitron,683,186926,0.54
+I73-1_short,Class II DNA Transposons Subclass 2,TIR,hAT,CLASS II SI - TIR - hAT,130,14162,0.04
+I73-1_short,Class II DNA Transposons Subclass 2,TIR,Tc1_Mariner,CLASS II SI - TIR - Tc1-Mariner,364,97663,0.28
+I73-1_short,Unknown,Unknown,Unknown,Unknown,8995,1349639,3.90
